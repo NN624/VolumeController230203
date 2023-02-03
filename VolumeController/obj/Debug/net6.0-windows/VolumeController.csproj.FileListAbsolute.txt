@@ -1,0 +1,77 @@
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\VolumeController.exe
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\VolumeController.deps.json
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\VolumeController.runtimeconfig.json
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\VolumeController.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\VolumeController.pdb
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.AssemblyReference.cache
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.GenerateResource.cache
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.AssemblyInfoInputs.cache
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.AssemblyInfo.cs
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.CoreCompileInputs.cache
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.CopyComplete
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\refint\VolumeController.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.pdb
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.genruntimeconfig.cache
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\ref\VolumeController.dll
+C:\Users\s192034.TSITCL\OneDrive - Cyber University\School\卒業研究\GraduationResearch\VolumeController\VolumeController\obj\Debug\net6.0-windows\VolumeController.Form1.resources
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.exe
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.deps.json
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.runtimeconfig.json
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.pdb
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.AssemblyReference.cache
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.Form1.resources
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.GenerateResource.cache
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.AssemblyInfoInputs.cache
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.AssemblyInfo.cs
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.CoreCompileInputs.cache
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.CopyComplete
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\refint\VolumeController.dll
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.pdb
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.genruntimeconfig.cache
+C:\Users\s192163\Downloads\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\ref\VolumeController.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.exe
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.deps.json
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.runtimeconfig.json
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\VolumeController.pdb
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.AssemblyReference.cache
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.Form1.resources
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.GenerateResource.cache
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.AssemblyInfoInputs.cache
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.AssemblyInfo.cs
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.CoreCompileInputs.cache
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.csproj.CopyComplete
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\refint\VolumeController.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.pdb
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.genruntimeconfig.cache
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\ref\VolumeController.dll
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.Form2.resources
+C:\Users\s192163\Desktop\卒業研究\VolumeController-master\VolumeController-master\VolumeController\obj\Debug\net6.0-windows\VolumeController.Properties.Resources.resources
